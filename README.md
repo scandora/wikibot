@@ -1,8 +1,7 @@
-```markdown
 # Wikibot
 
-Wikibot is a lightweight automation tool that connects to a running Docker host,  
-generates a dynamic list of containers, and automatically updates a page on a MediaWiki instance with a live status table.  
+Wikibot is a lightweight automation tool that connects to a running Docker host,
+generates a dynamic list of containers, and automatically updates a page on a MediaWiki instance with a live status table.
 It is ideal for self-hosters and infrastructure teams who want live container status documentation without manual updates.
 
 ---
@@ -69,6 +68,5 @@ This will:
 
 You can schedule it to run periodically via cron or systemd timers for fully automated updates.
 
-License
-
+License:
 MIT License

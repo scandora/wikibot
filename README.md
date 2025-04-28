@@ -20,7 +20,7 @@ It is ideal for self-hosters and infrastructure teams who want live container st
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/wikibot.git
+    git clone https://github.com/scandora/wikibot.git
     cd wikibot
     ```
 

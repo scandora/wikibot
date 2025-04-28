@@ -55,6 +55,7 @@ Run the bot manually:
 
 ```bash
 python3 -m wikibot.main
+```
 
 This will:
 
@@ -68,5 +69,5 @@ This will:
 
 You can schedule it to run periodically via cron or systemd timers for fully automated updates.
 
-License:
+License
 MIT License

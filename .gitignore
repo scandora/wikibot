@@ -4,3 +4,4 @@
 .venv/
 __pycache__/
 traefik_cli.egg-info/
+__pycache__/
